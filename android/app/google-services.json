@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762057769916",
+    "project_id": "doctor-ui-d826f",
+    "storage_bucket": "doctor-ui-d826f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762057769916:android:1a2f916636a555e8d1a1b9",
+        "android_client_info": {
+          "package_name": "algoritmik.doctor_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762057769916-8jnpmjgbdmu0928ockqov6v4hs1hscn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJYaMDDvQB0VpiLFX-LXtnbDx5J26_UxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762057769916-8jnpmjgbdmu0928ockqov6v4hs1hscn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
